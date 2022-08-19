@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/18 19:20:43.000.946,=C:\Users\etec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 19:40:29.000.540,C:\Users\etec\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\etec\Desktop\Cliente\untCliente.dfm</Transaction>
+    <Transaction>2022/08/18 19:40:29.000.540,C:\Users\etec\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\etec\Desktop\Cliente\untCliente.pas</Transaction>
+    <Transaction>2022/08/18 19:40:34.000.691,C:\Users\etec\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\etec\Desktop\Cliente\prjCliente.dproj</Transaction>
+    <Transaction>2022/08/18 19:45:34.000.599,=C:\Users\etec\Desktop\Cliente\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 19:48:28.000.215,C:\Users\etec\Desktop\Cliente\Unit1.dfm=C:\Users\etec\Desktop\Cliente\untCliente1.dfm</Transaction>
+    <Transaction>2022/08/18 19:48:28.000.215,C:\Users\etec\Desktop\Cliente\Unit1.pas=C:\Users\etec\Desktop\Cliente\untCliente1.pas</Transaction>
+    <Transaction>2022/08/18 19:49:26.000.883,C:\Users\etec\Desktop\Cliente\untCliente.pas=C:\Users\etec\Desktop\Cliente\untPrincipal.pas</Transaction>
+    <Transaction>2022/08/18 19:49:26.000.883,C:\Users\etec\Desktop\Cliente\untCliente.dfm=C:\Users\etec\Desktop\Cliente\untPrincipal.dfm</Transaction>
+    <Transaction>2022/08/18 19:49:32.000.652,C:\Users\etec\Desktop\Cliente\untCliente1.dfm=C:\Users\etec\Desktop\Cliente\untCliente.dfm</Transaction>
+    <Transaction>2022/08/18 19:49:32.000.652,C:\Users\etec\Desktop\Cliente\untCliente1.pas=C:\Users\etec\Desktop\Cliente\untCliente.pas</Transaction>
+  </Transactions>
+</BorlandProject>
